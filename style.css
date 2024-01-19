@@ -20,6 +20,7 @@ body {
     margin: 0;
     /* Pushes the text down 20 pixels from the top of the page. */
     padding-top: 20px;
+    font-size: 52px;
   }
   
   header nav {
@@ -88,6 +89,7 @@ body {
         margin: 14px 0;
         /* Removes or sets 0 pixels of padding above the `h1`. */
         padding-top: 0;
+        font-size: 48px;
       }
     
       header nav {
@@ -106,5 +108,4 @@ body {
         color: #bdbdbd;
       }
     }
-    
     
